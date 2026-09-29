@@ -34,7 +34,7 @@ const MODEL_MAPPING = {
   'nemotron-3-ultra': 'nvidia/nemotron-3-ultra-550b-a55b',
   'nemotron-3-super': 'nvidia/nemotron-3-super-120b-a12b',
   'deepseek-v4': 'deepseek-ai/deepseek-v4-flash-0731',
-  'glm-5.1': 'z-ai/glm-5.2'
+  'glm-5.3': 'z-ai/glm-5.3'
 };
 
 // Health check endpoint
